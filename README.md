@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Gem 👋
 
-<!--
-**gem-tech17/gem-tech17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Engineering Studies (Mechatronics) – University of Auckland  
+🤖 Interested in AI Systems, Robotics, and Intelligent Automation  
 
-Here are some ideas to get you started:
+💡 Recent Project:
+- AI-powered Email Automation Tool that extracts tasks and generates smart replies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On:
+- Emotion-Aware Study Assistant Chatbot
+
+🧠 Tools & Technologies:
+- Python
+- Anaconda
+- OpenCV
+- PyTorch
+- Machine Learning & AI Automation
+
+📚 Exploring intelligent systems that combine AI, automation, and human interaction.
